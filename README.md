@@ -1,4 +1,4 @@
-# Zero-Day Vulnerability Mitigation Reference App
+# Zero-Day Vulnerability Mitigation Demo App
 
  
 
