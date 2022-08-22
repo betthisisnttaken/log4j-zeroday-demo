@@ -12,9 +12,9 @@
 
 ## Overview  <a name="overview"></a>
 
-This is a reference application that shows how to mitigate exposure from zero day vulnerability and how to fix it quickly when a patch is made available. 
+This is a demo application that shows how to mitigate exposure from zero day vulnerability and how to fix it quickly when a patch is made available. 
 
-More details can be found in this video - [Youtube link]
+More details can be found in this blog - [Youtube link]
 
 ## Requirements  <a name="requirements"></a>
 
@@ -32,7 +32,7 @@ Please send an email to **apisupport@mastercard.com** with any questions or feed
 
 
 ## License <a name="license"></a>
-<p>Copyright 2021 Mastercard</p>
+<p>Copyright 2022 Mastercard</p>
 <p>Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with
 the License. You may obtain a copy of the License at:</p>
 <pre><code>   http://www.apache.org/licenses/LICENSE-2.0
