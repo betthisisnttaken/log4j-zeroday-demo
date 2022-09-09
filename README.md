@@ -14,7 +14,7 @@
 
 This is a demo application that shows how to mitigate exposure from zero day vulnerability and how to fix it quickly when a patch is made available. 
 
-More details can be found in this blog - [Youtube link]
+More details can be found in this blog: https://developer.mastercard.com/blog/zero-day-vulnerability/
 
 ## Requirements  <a name="requirements"></a>
 
